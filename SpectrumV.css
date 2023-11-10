@@ -1,0 +1,57 @@
+#top{
+  text-align: center;
+  font-family: 'Bungee Shade', cursive;
+  font-weight: bold;
+}
+p{
+  color: white;
+}
+
+#one{
+  color:  #8ECAE6;
+  border: 100px solid #8ECAE6;
+margin-left: 50px;
+background-color: #8ECAE6;
+  height: auto;
+  width: auto;
+}
+
+#two{
+  color:  #219EBC;
+  border: 100px solid #219EBC;
+  margin-left: 50px;
+  background-color: #219EBC;
+  height: auto;
+  width: auto;
+}
+
+#three{
+  color: #023047;
+  border: 100px solid #023047;
+  background-color: #023047;
+  margin-left: 50px;
+  height: auto;
+  width: auto;
+}
+
+#four{
+  color:  #FFB703;
+  border: 100px solid #FFB703;
+  background-color: #FFB703;
+  margin-left: 50px;
+  height: auto;
+  width: auto;
+}
+
+#five{
+  color:#FB8500;
+  border: 100px solid #FB8500;
+  margin-left: 50px;
+  background-color: #FB8500;
+  height: auto;
+  width: auto;
+}
+
+body{
+  background-color:  #FFB986;
+}

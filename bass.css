@@ -1,0 +1,30 @@
+#bass{
+width: 50%;
+height: 50%;
+float: middle;
+}
+
+p{
+  font-size: 35px;
+  font-family:  'Edu TAS Beginner', cursive;
+}
+
+img{
+  width: 500px;
+  height: 300px;
+  border-radius: 5px;
+  border: 5px solid black;
+  margin: 5px;
+  padding: 5px;
+  background-color: whitesmoke;
+  box-shadow: 5px 5px 5px 5px gray; 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: middle;
+}
+
+body{
+  background-color:  #FB8500;
+
+}

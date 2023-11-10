@@ -1,0 +1,30 @@
+body{
+  background-color:  #FFB986;
+}
+
+h1{
+  font-family: 'Edu TAS Beginner', cursive;
+  font-size: 50px;
+  text-decoration: underline;
+}
+
+.head{
+  text-align: center;
+  text-decoration: underline;
+  
+}
+
+.specV{
+  height: 251px;
+  width: 1593px;
+}
+
+.description p{
+  font-family: 'Edu TAS Beginner', cursive;
+  font-size: 35px;
+}
+.description h2{
+  font-family: 'Edu TAS Beginner', cursive;
+  font-size: 35px;
+  text-decoration: underline;
+}

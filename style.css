@@ -1,0 +1,36 @@
+h1{
+  color: lightblue;
+  text-align: center;
+  font-size: 75px;
+  font-family: 'Edu TAS Beginner', cursive;
+}
+body{
+  background-color: #023047;
+}
+
+h2{
+  text-decoration: underline;
+  font-size: 35px;
+  font-family: 'Edu TAS Beginner', cursive;
+  color: lightblue;
+  text-align: center;
+}
+
+.sub{
+  font-size: 35px;
+  font-family: 'Edu TAS Beginner', cursive;
+  color: lightblue;
+}
+
+#home{
+float: left;
+width: 400px;
+height: 400px;
+  }
+
+a{
+  color: #A01FE7;
+  font-size: 30px;
+}
+
+
